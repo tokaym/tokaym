@@ -1,4 +1,4 @@
-![Uploading banner(1).png…]()
+![banner(1)](https://github.com/tokaym/tokaym/assets/55059335/4d7d5ddb-8f13-4e0e-bce2-1abb002aa58b)
 
 - 🔭 I’m currently working on .Net and Javascript
 - 🌱 I’m currently learning Go
