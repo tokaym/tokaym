@@ -1,6 +1,4 @@
-### Hi there 👋 , I'm Mustafa
-
-Here are some ideas to get you started:
+![Uploading banner(1).png…]()
 
 - 🔭 I’m currently working on .Net and Javascript
 - 🌱 I’m currently learning Go
